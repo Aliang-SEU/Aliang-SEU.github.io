@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<?xml-stylesheet type="text/xsl" href="aseUrl=aliang-seu.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>aseUrl=aliang-seu.github.io/post/a/</loc>
+    <loc>http://localhost:1313/post/a/</loc>
     <lastmod>2019-03-20T12:56:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>aseUrl=aliang-seu.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>aseUrl=aliang-seu.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2019-03-20T12:56:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>aseUrl=aliang-seu.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2019-03-20T12:56:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>aseUrl=aliang-seu.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

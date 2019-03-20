@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: aseUrl=aliang-seu.github.io/sitemap.xml
+Sitemap: http://localhost:1313/sitemap.xml
